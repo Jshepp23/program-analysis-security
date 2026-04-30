@@ -16,4 +16,3 @@ Applied static and dynamic analysis techniques.
 - [Report 1](./report1.pdf)
 - [Report 2](./report2.pdf)
 
-update
